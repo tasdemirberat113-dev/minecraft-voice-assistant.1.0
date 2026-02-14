@@ -1,0 +1,110 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🎮 MİNECRAFT SESLİ ASİSTAN - FABRIC MOD                   ║
+║      (Grok AI Destekli)                                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+📦 BU PAKET NEDİR?
+
+Bu, Minecraft 1.21.11 için sesli asistan Fabric mod'unun 
+KAYNAK KODLARIDIR. Kullanabilmek için önce JAR dosyasına 
+çevirmeniz gerekiyor.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 HIZLI BAŞLANGIÇ (3 ADIM)
+
+1️⃣  DERLEME (JAR DOSYASI OLUŞTUR)
+
+   Windows:
+   --------
+   • compile.bat dosyasına çift tıkla
+   • Bekle (5-10 dakika)
+   • Hazır!
+
+   Linux / Mac:
+   ------------
+   • Terminal aç
+   • ./compile.sh
+   • Bekle (5-10 dakika)
+   • Hazır!
+
+2️⃣  KURULUM
+
+   • build/libs/minecraft-voice-assistant-1.0.0.jar dosyasını
+   • .minecraft/mods/ klasörüne kopyala
+
+3️⃣  API ANAHTARLARI
+
+   • Oyunu başlat (bir kez)
+   • .minecraft/config/minecraft-voice-assistant.json aç
+   • Grok ve OpenAI API anahtarlarını ekle
+   • Oyunu yeniden başlat
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 DETAYLI REHBERLER
+
+• BUILD_GUIDE_TR.md     → Derleme detayları
+• README.md             → Tam dokümantasyon
+• QUICK_START_TR.md     → Hızlı başlangıç
+• ADVANCED_FEATURES.md  → Gelişmiş özellikler
+• VERSION_UPDATE.md     → Versiyon notları
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️  GEREKSİNİMLER
+
+Derleme için:
+✅ Java Development Kit (JDK) 21+
+   https://adoptium.net/
+
+✅ İnternet bağlantısı
+   (Bağımlılıkları indirmek için)
+
+Oyun için:
+✅ Minecraft 1.21.11
+✅ Fabric Loader 0.18.4
+✅ Fabric API 0.141.3+1.21.11
+✅ Grok API anahtarı (https://x.ai/)
+✅ OpenAI API anahtarı (https://platform.openai.com/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+❓ SORUN GİDERME
+
+"Java bulunamadı"
+→ https://adoptium.net/ adresinden JDK 21 kur
+
+"Gradle bulunamadı"  
+→ compile.bat / compile.sh otomatik kurar
+
+"Derleme başarısız"
+→ BUILD_GUIDE_TR.md dosyasına bak
+→ İnternet bağlantısını kontrol et
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 ÖZELLİKLER
+
+🎤 Sesli komutlar (V tuşu)
+🗣️ Sesli yanıtlar
+🧠 Grok AI entegrasyonu
+📊 Oyun durumu bilgisi
+🎯 Akıllı yardım
+😄 Eğlenceli kişilik
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 İPUCU
+
+Derleme çok uzun sürüyorsa:
+• İlk derleme 5-10 dakika sürebilir (normal!)
+• Bağımlılıklar indiriliyor
+• İkinci derleme çok daha hızlı
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+İyi eğlenceler! 🎮🚀
+
